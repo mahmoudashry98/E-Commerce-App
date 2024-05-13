@@ -29,5 +29,19 @@ class PricingCalculatorApp {
 }
 
 double getShippingCost(String location) {
+  var items = [
+    {
+    'name': 'fdkj',
+    'avg': [4.0, 5.0, 8.0],
+  },
+  {
+    'name': 'fdkj',
+    'avg': [4.0, 5.0, 8.0],
+  },
+
+  ];
+
+
+
   return 5.00;
 }
